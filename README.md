@@ -1,4 +1,4 @@
-**Stock Portfolio Optimization using LSTM and MPT**
+# Stock Portfolio Optimization using LSTM and MPT
 
 Stock markets have existed for centuries. Since its inception, stock markets
 have served many purposes, the most important being to provide companies with a
@@ -19,7 +19,7 @@ shares amongst the top-performing stocks which will be first predicted by the
 **LSTM model** and then the selected stocks will be optimized using **Markowitz
 Portfolio Theory.**
 
-**Existing Work And Our Innovation**
+## Existing Work And Our Innovation
 
 There are numerous classical methods to build a portfolio like Dow Jones theory,
 Random Walk theory, Formula theory and then the most accurate one is **Markowitz
@@ -54,7 +54,7 @@ risky for investors.
     value making the model more accurate and useful for investment in a shorter
     span of time and on a higher frequency.
 
-**CONCLUSION**
+## CONCLUSION
 
 Through this project, we learnt how to apply deep learning techniques such as
 LSTM and Linear Regression Models, how to use keras-tensorflow library, how to
@@ -67,7 +67,7 @@ And also using the predicted stock prices from the LSTM, we were able to make an
 optimized portfolio which can help investors in making risk-averse decisions
 using Markowitz Portfolio theory.
 
-**References**
+## References
 
 [**Long Short Term Memory (LSTM) - Recurrent Neural Networks \|
 Coursera**](https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay)
